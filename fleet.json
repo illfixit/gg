@@ -1,0 +1,27 @@
+{
+  "fleet_id": "FLEET-9907",
+  "manager": "SmartOps Control Center",
+  "tools": [
+    {
+      "tool_id": "CNC-101",
+      "type": "5-Axis Milling",
+      "status": "running",
+      "current_job": "JOB-889",
+      "uptime_hours": 2345
+    },
+    {
+      "tool_id": "LATHE-202",
+      "type": "High-Precision Lathe",
+      "status": "idle",
+      "last_maintenance": "2025-08-22",
+      "uptime_hours": 1720
+    },
+    {
+      "tool_id": "CUT-303",
+      "type": "Laser Cutter",
+      "status": "maintenance",
+      "scheduled_resume": "2025-09-12",
+      "uptime_hours": 1980
+    }
+  ]
+}

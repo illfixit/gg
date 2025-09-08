@@ -1,0 +1,13 @@
+{
+  "equipment_id": "QC-4451",
+  "name": "3D Laser Scanner",
+  "location": "Factory A - Inspection Bay 2",
+  "calibration_date": "2025-08-01",
+  "status": "operational",
+  "last_test": {
+    "batch_id": "BATCH-5091",
+    "date": "2025-09-07",
+    "defect_rate_percent": 1.4,
+    "notes": "Surface roughness slightly above threshold in 3 parts."
+  }
+}

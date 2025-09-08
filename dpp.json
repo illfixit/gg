@@ -1,0 +1,18 @@
+{
+  "product_id": "DPP-2025-001",
+  "name": "Smart CNC Milling Machine",
+  "manufacturer": "TechFab Industries",
+  "serial_number": "SN-993847",
+  "production_date": "2025-06-15",
+  "materials": [
+    { "name": "Aluminum Alloy 6061", "percentage": 65 },
+    { "name": "Recycled Steel", "percentage": 30 },
+    { "name": "Electronics", "percentage": 5 }
+  ],
+  "energy_efficiency": "A+",
+  "performance_metrics": {
+    "uptime": "98.7%",
+    "avg_cycle_time_sec": 42,
+    "maintenance_interval_days": 180
+  }
+}
