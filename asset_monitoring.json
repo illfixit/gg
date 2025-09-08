@@ -2,8 +2,8 @@
   "asset_id": "ASSET-2033",
   "type": "Industrial Robot Arm",
   "location": "Plant B - Assembly Line 4",
-  "owner": "Global Manufacturing Ltd.",
-  "partners": ["Supplier-X", "MaintenanceCo"],
+  "owner": "My Demo Organization",
+  "partners": ["AROMA GLOBAL 3 d.o.o."],
   "live_metrics": {
     "temperature_c": 56.2,
     "power_kw": 2.4,
